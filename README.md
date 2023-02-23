@@ -82,8 +82,8 @@ TestLoss:7.4805,TestAcc:0.7700
 
 The following is the result: <br>
 Loss changes with epochs: <br>
-![pic1](https://github.com/taishan1994/pytorch_gat/raw/master/loss.png)<br>
+![pic1](./loss.png)<br>
 Acc changes with epochs: <br>
-![pic1](https://github.com/taishan1994/pytorch_gat/raw/master/acc.png)<br>
+![pic1](./acc.png)<br>
 Dimensionality reduction visualization of test results: <br>
-![pic1](https://github.com/taishan1994/pytorch_gat/raw/master/tsne.png)<br>
+![pic1](./tsne.png)<br>
